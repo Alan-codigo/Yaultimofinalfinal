@@ -3,6 +3,18 @@ package codigootros;
 import java.util.HashMap;
 import java.util.Scanner;
 
+
+/*
+ * LO QUE OCURRE EN ESTE CODIGO ES QUE AL INGRESAR UN PAIS TE DICE LA CAPITAL
+ * 
+ * LO QUE HICE FUE CAMBIAR EL NOMBRE DE UNAS VARIABLES A UNAS MAS ESPECIFICAS PARA 
+ * PODER SACER CUAL ES CADA VARIABLE O QUE VALOR TIENE DE UNA MANERA MAS RAPIDA
+ * 
+ * DESPUES LO QUE HICE FUE METER TODO EN UN MAIN
+ * 
+ * TAMBIEN LE PUSE UN VALOR A EL SALVADOR
+ * 
+ */
 public class Codigo7 {
 	
 	public static void main(String[] args) {
